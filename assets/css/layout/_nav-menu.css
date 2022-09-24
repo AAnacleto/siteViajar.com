@@ -1,0 +1,35 @@
+.nav-menu{
+    margin-left: 20rem;
+    margin-top: -170px;
+
+}
+
+.nav-menu__item{
+    display: inline;
+    vertical-align: top;
+}
+
+.nav-menu__link{
+    color: #2559a6;
+    display: inline-block;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+    padding: 3rem 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.nav-menu__link{
+    padding: 3rem 2rem;
+
+}
+
+.nav-menu__text{
+    margin-left: 1.1rem;
+    position: relative;
+}
+
+.nav-menu__link:hover{
+    color: #0098da !important;
+    font-weight: bold;
+}
+

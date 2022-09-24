@@ -1,0 +1,16 @@
+.logo{
+    margin-left: 3.8rem;
+    padding-top: 1.6rem;
+    width: 10%;
+    
+}
+
+.logo_link{
+    height: 10rem;
+    width: 15rem;
+    background: url('../../img/logo.png') no-repeat;
+    display:inline-block;
+    background-position: center;
+    background-size: 100%;
+    margin-top: -20px;
+}
